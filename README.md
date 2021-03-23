@@ -1,1 +1,1 @@
-# CSCI-330-Unix-Linux
+# CSCI-480-Princple-of-Operating-System
